@@ -1,2 +1,3 @@
-# Foundations-of-Programming-LabWork
-The assignment work for Foundation of Programming Lab which was based on MIT-Scheme Language.
+this repo consists of all the files that have been created to learn scheme,
+or to solve the question given in the examinations of fop_lab. This repo may
+contain some incomplete files, sorry for the inconvinence hope you enjoy.
